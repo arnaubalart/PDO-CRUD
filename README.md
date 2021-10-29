@@ -1,5 +1,5 @@
 # PDO-CRUD
-##Para que funcione, en primer lugar necesitarás una conexión a la base de datos. Para ello, tendrás que utilizar los siguientes comandos:
+### Para que funcione, en primer lugar necesitarás una conexión a la base de datos. Para ello, tendrás que utilizar los siguientes comandos:
 ```
 <?php
  try{
